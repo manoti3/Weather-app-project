@@ -6,6 +6,7 @@ const countryEl = document.getElementById('country');
 const weatherForecastEl = document.getElementById('weather-forecast');
 const currentTempEl = document.getElementById('current-temp');
 
+
 const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
 const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
@@ -69,7 +70,11 @@ function showWeatherData (data){
     <div class="weather-item">
         <div>Sunset</div>
         <div>${window.moment(sunset*1000).format('HH:mm a')}</div>
-    </div>`;
+    </div>
+    
+    
+    `;
+
     let otherDayForcast = ''
     data.daily.forEach((day, idx) => {
         if(idx == 0){
