@@ -19,4 +19,5 @@ its a simple weather app
     -email::hillarymanoti0@gmail.com
     -phone::+254745739543
     ### Licences 
-    
+    *Licensed under the MIT Licence
+    copyright(c)2024
