@@ -15,4 +15,8 @@ its a simple weather app
     -Javascript
     -Html
     -Css
+    ## Support and contact details
+    -email::hillarymanoti0@gmail.com
+    -phone::+254745739543
+    ### Licences 
     
