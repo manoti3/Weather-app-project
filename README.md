@@ -1,5 +1,5 @@
 # Weather-app-project
-####This is a weather app
+####This is a weather app.
 ####*By Hillary Manoti*
 ## Project Description
 its a simple weather app
