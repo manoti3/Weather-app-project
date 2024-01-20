@@ -18,6 +18,6 @@ its a simple weather app
     ## Support and contact details.
     -email::hillarymanoti0@gmail.com
     -phone::+254745739543
-    ### Licences 
+    ### Licences.
     *Licensed under the MIT Licence
     copyright(c)2024
