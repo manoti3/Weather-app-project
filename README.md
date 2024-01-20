@@ -1,7 +1,7 @@
 # Weather-app-project.
 ####This is a weather app.
 ####*By Hillary Manoti*
-## Project Description
+## Project Description.
 its a simple weather app
 ## setup and installation
 - Download zip in the code section of github to your desired folder
