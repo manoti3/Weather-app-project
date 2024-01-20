@@ -11,7 +11,7 @@ its a simple weather app
     - And your application is running.
     ## known bugs.
     application works perfectly well, no bugs
-    ## Technologies Used
+    ## Technologies Used.
     -Javascript
     -Html
     -Css
