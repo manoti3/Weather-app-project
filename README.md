@@ -9,7 +9,7 @@ its a simple weather app
     - Open the folder with vs code.
     - The run your index.html by either using the "GO LIVE" extension or by double clicking of the index.html
     - And your application is running.
-    ## known bugs 
+    ## known bugs.
     application works perfectly well, no bugs
     ## Technologies Used
     -Javascript
