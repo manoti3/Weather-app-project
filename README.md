@@ -1,4 +1,4 @@
-# Weather-app-project
+# Weather-app-project.
 ####This is a weather app.
 ####*By Hillary Manoti*
 ## Project Description
